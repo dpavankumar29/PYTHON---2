@@ -1,0 +1,5 @@
+num=list(map(int,input().split()))
+num_max=max(num)
+num_min=min(num)
+print("Maximum Value is :",num_max)
+print("Minimum Value is :",num_min)
